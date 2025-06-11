@@ -36,6 +36,6 @@ Este proyecto integra contenidos de teoria de conjuntos y logica matematica con 
 Disponible en: 
 
 ## 🔗 Repositorio
-
+https://github.com/LeoMercorelli/integrador_2-matematica.git
 
 
