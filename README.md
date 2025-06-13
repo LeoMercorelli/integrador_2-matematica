@@ -34,8 +34,9 @@ Este proyecto integra contenidos de teoria de conjuntos y logica matematica con 
 
 ## 📹 Video de presentacion
 Disponible en: 
-https://youtu.be/KHUgD1pcEv8
+https://www.youtube.com/watch?v=2cbwlyrfTtE&ab_channel=LeonelMercorelli
 
+https://youtu.be/KHUgD1pcEv8
 ## 🔗 Repositorios
 https://github.com/LeoMercorelli/integrador_2-matematica.git
 
